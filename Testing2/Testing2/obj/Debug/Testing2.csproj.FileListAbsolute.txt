@@ -1,0 +1,7 @@
+C:\Users\VileVas\Desktop\СКБКонтекст сентябрь 2022\Testing2\Testing2\bin\Debug\Testing2.exe.config
+C:\Users\VileVas\Desktop\СКБКонтекст сентябрь 2022\Testing2\Testing2\bin\Debug\Testing2.exe
+C:\Users\VileVas\Desktop\СКБКонтекст сентябрь 2022\Testing2\Testing2\bin\Debug\Testing2.pdb
+C:\Users\VileVas\Desktop\СКБКонтекст сентябрь 2022\Testing2\Testing2\obj\Debug\Testing2.csprojAssemblyReference.cache
+C:\Users\VileVas\Desktop\СКБКонтекст сентябрь 2022\Testing2\Testing2\obj\Debug\Testing2.csproj.CoreCompileInputs.cache
+C:\Users\VileVas\Desktop\СКБКонтекст сентябрь 2022\Testing2\Testing2\obj\Debug\Testing2.exe
+C:\Users\VileVas\Desktop\СКБКонтекст сентябрь 2022\Testing2\Testing2\obj\Debug\Testing2.pdb
